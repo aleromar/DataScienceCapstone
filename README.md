@@ -15,9 +15,11 @@ The idea behind this project is to analyse what are the features that best ident
 
 In short, the purpose of this study is twofold. First, to help a given company achieve a better understanding of what their current customers are, what is their profile and what are the features that set them apart.  Second, to help them be more efficient in their targeting campaign by using ML techniques that will assign certain probability to a new individual become a future customer.
 
-**3) Files in the repository**
+**3) Files in the repository**   
 *captoneWorkbook.ipynb* : This is the file that includes the whole detailed analysis with comments and snippets of code that were used to obtain final results.    
-*myfile.txt*: This is the manually created file that help identify the invalid values for each of the features in the dataset.    
+
+*myfile.txt*: This is the manually created file that help identify the invalid values for each of the features in the dataset.
+
 *report.docx*: An more through descriptions of the steps taken and reasoning behind some of the decissions. It also contains main conclusions.   
 
 **4) Summary of results**
